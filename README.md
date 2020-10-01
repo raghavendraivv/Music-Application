@@ -11,7 +11,7 @@ This Application was a Music Application consits of Different Languages of album
 - CSS.
 - Bootstrap4.
 
-## Installing
+## How to Install
  
 - Fork the repository. 
 - Clone the repo using the terminal command. Make sure you replace `username` with your GitHub username.
