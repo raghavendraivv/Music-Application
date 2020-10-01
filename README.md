@@ -1,7 +1,7 @@
 # music_app
 [![Gitter](https://gitter.im/music_app/contributers)](https://gitter.im/music_app/contributers)
 
-This Application was a Music Application consits of Different Languages of album of songs with user favorite songs and user profile data.
+This Application was a Music Application consits of all Different Languages of album of songs with user favorite songs and user profile data.
 
 ## Languages used 
 
@@ -14,7 +14,7 @@ This Application was a Music Application consits of Different Languages of album
 ## Installing
  
 - Fork the repository. 
-- Clone the repo using the terminal command. Make sure you replace `username` with your GitHub username.
+- Clone the repository using the terminal command. Make sure you replace `username` with your GitHub username.
 ```bash
 https://github.com/raghavendraivv/music_app.git 
 ```
