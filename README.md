@@ -1,4 +1,4 @@
-# music_app
+# Music_App||Go Through||Helpful 
 [![Gitter](https://gitter.im/music_app/contributers)](https://gitter.im/music_app/contributers)
 
 This Application was a Music Application consits of Different Languages of album of songs with user favorite songs and user profile data.
@@ -11,7 +11,7 @@ This Application was a Music Application consits of Different Languages of album
 - CSS.
 - Bootstrap4.
 
-## Installing
+## Installing||Procedure
  
 - Fork the repository. 
 - Clone the repo using the terminal command. Make sure you replace `username` with your GitHub username.
