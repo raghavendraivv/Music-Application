@@ -1,7 +1,7 @@
 # music_app
 [![Gitter](https://gitter.im/music_app/contributers)](https://gitter.im/music_app/contributers)
 
-This Application was a Music Application consits of Different Languages of album of songs with user favorite songs and user profile data.
+This Application is a Music Application consits of Different Languages of album of songs with user favorite songs and user profile data.
 
 ## Languages used 
 
@@ -46,4 +46,4 @@ To Migrate the models
 ## License
 This project is licensed under the MIT License, see the [LICENSE.md](https://github.com/raghavendraivv/music_app/blob/master/LICENSE) for more details.
     
-
+#Enjoy Music Built with Love :)
