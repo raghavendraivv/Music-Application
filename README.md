@@ -1,7 +1,7 @@
 # music_app
 [![Gitter](https://gitter.im/music_app/contributers)](https://gitter.im/music_app/contributers)
 
-This Application was a Music Application consits of Different Languages of album of songs with user favorite songs and user profile data.
+This Application was a Music Application consits of Different Languages of album of songs with user favorite songs which the enjoy alot and user profile data.
 
 ## Languages used 
 
@@ -13,17 +13,17 @@ This Application was a Music Application consits of Different Languages of album
 
 ## Installing
  
-- Fork the repository. 
+- Fork the Repository. 
 - Clone the repo using the terminal command. Make sure you replace `username` with your GitHub username.
 ```bash
 https://github.com/raghavendraivv/music_app.git 
 ```
 - To run the code, type the following commands in terminal.
-Installing Virtual environment
+Installing Virtual Environment
 ```bash
  virtualenv -p python3 .
 ```
-Now Activate Your environment
+Now Activate Your Environment
 ```bash
 source bin/activate
 ```
@@ -31,7 +31,7 @@ Install Django
 ```bash 
 pip install django
 ```
-To Migrate the models
+To Migrate the Models
  ```bash
  python manage.py makemigrations
  python manage.py migrate
