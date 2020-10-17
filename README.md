@@ -1,7 +1,7 @@
 # music_app
 [![Gitter](https://gitter.im/music_app/contributers)](https://gitter.im/music_app/contributers)
 
-This Application was a Music Application consits of Different Languages of album of songs with user favorite songs and user profile data.
+This Application was a Music Application consists of Different Languages of an album of songs with user favorite songs and user profile data.
 
 ## Languages used 
 
@@ -18,10 +18,10 @@ This Application was a Music Application consits of Different Languages of album
 ```bash
 https://github.com/raghavendraivv/music_app.git 
 ```
-- To run the code, type the following commands in terminal.
+- To run the code, type the following commands in the terminal.
 Installing Virtual environment
 ```bash
- virtualenv -p python3 .
+ virtualenv -p python3.
 ```
 Now Activate Your environment
 ```bash
@@ -36,7 +36,7 @@ To Migrate the models
  python manage.py makemigrations
  python manage.py migrate
  ```
- Database used in this was inbuilt django database only.
+ The database used in this was an inbuilt django database only.
 
 ## Built With
 - Framework used: Django (version: 2.1.1)
